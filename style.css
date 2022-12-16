@@ -130,6 +130,9 @@ footer a {
 		font-family: 'Covered By Your Grace', cursive;
 		margin-top: 3rem;
 	}
+	.grid-form {
+		padding: 2rem;
+	}
 
 	header {
 		justify-content: center;
