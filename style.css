@@ -20,6 +20,20 @@ body {
 	font-family: 'Quicksand', sans-serif;
 	color: ghostwhite;
 }
+.grid-p-container {
+	font-size: 2rem;
+}
+
+.log-types {
+	display: inline;
+	color: aqua;
+}
+.B {
+	font-size: 6rem;
+	float: left;
+	padding: 0;
+	margin: 0;
+}
 header {
 	border-bottom: 0.3rem ghostwhite solid;
 	padding: 1rem;
