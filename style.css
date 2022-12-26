@@ -121,6 +121,15 @@ footer a {
 }
 
 @media screen and (max-width: 945px) {
+	.B {
+		font-size: 2.1rem;
+	}
+	.grid-p-container {
+		font-size: 1.3rem;
+	}
+	br {
+		display: none;
+	}
 	.grid-container {
 		display: flex;
 		flex-direction: column-reverse;
@@ -157,9 +166,6 @@ footer a {
 	footer a {
 		font-size: 1.5rem;
 	}
-}
-
-@media screen and (max-width: 945px) {
 	body {
 		background-size: 100vh;
 	}
